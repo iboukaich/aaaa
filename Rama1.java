@@ -6,7 +6,7 @@ public class Rama1 {
 	
 	public void metodoRama2() {
 		
-		System.out.println("Este es el método de la rama1");
+		System.out.println("Este es el método de la rama1.");
 		
 	}
 	
